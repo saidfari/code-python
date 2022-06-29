@@ -1,0 +1,2 @@
+# caso nao rode na sua maquina o script extraiPasswdChrome de um pip install nessa lib
+pip install pycryptodomex
